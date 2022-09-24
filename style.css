@@ -11,6 +11,7 @@ body {
     align-items: center;
     justify-content: center;
     background-image: #f7f7f7;
+    background-image: linear-gradient(rgba(200, 233, 55, 0.616), rgb(173, 46, 46));
 }
 
 main {
